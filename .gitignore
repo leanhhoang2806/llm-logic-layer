@@ -1,0 +1,4 @@
+myenv/
+# Ignore Python bytecode and caches
+**/__pycache__/
+.env
